@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f0cc8303-dba6-46a8-875c-3dfc6a711731/resourceGroups/DiriSpotiApp/providers/Microsoft.Web/sites/DiriSpaNode",
+    "appService.deploySubpath": ""
+}
